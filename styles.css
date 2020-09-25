@@ -3,7 +3,12 @@
 
 body {
 	background-color:cornsilk;
-	background-size:cover
+	background-image:url("images/eagle45.png");
+	background-size:contain;
+	background-repeat:no-repeat;
+	background-position:top;
+	
+		
 }
 h1 {
 font-size:300%;
