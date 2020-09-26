@@ -4,10 +4,9 @@
 body {
 	background-color:cornsilk;
 	background-image:url("images/eagle45.png");
-	background-size:contain;
 	background-repeat:no-repeat;
-	background-position:right top;
-	
+	background-position:top;
+	border: 10px groove darkkhaki;
 		
 }
 h1 {
